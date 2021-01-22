@@ -6,6 +6,7 @@ public class Task2 {
         Magician mag = new Magician();
         Shaman sha = new Shaman();
 
+	System.out.println("Git test")
         war.physicalAttack(pal);
         System.out.println("Паладин: " + pal.health);
 
